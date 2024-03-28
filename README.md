@@ -34,3 +34,5 @@ The project achieved promising results in predicting the likelihood of customers
 ## Conclusion
 This project highlights the effectiveness of comprehensive data preprocessing, the strategic application of machine learning models, and the importance of model interpretability in addressing complex predictive modeling challenges. The methodologies and insights derived from this project are valuable contributions to the field and pave the way for future research and application.
 
+## AI Assistance Notice
+AI provided support with Portions of coding, documentation and ideation
